@@ -47,6 +47,7 @@ setup_dict = dict(
         "urllib3~=1.25",
         "xmltodict~=0.12.0",
         "filelock~=3.0",
+        "future-annotations"
     ],
     extras_require={
         "dev": [
